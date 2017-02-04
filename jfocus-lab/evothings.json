@@ -1,0 +1,29 @@
+{
+  "name": "jfocus-lab",
+  "version": "1.0.0",
+  "title": "JFocus Lab",
+  "description": "App for lab at JFocus.",
+  "tags": [
+    {
+      "type": "comm"
+    }
+  ],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    },
+    {
+      "name": "mdl",
+      "version": "1.2.1"
+    }
+  ],
+  "plugins": [
+  ],
+  "index-file": "index.html",
+  "uuid": "1db98390-ad2c-439e-a983-b2925bee2c1b",
+  "icon": "app-icon.png",
+  "cordova-id": "com.evothings.examples.jfocus-lab",
+  "doc-url": "http://todo",
+  "long-description": "App for lab at JFocus."
+}
